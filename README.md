@@ -1,5 +1,4 @@
 # Threat-VS-Vulnerabilities
-# Threats vs Vulnerabilities
 
 | No | Scenario | Category | Reasoning |
 |:---:|---|:---:|---|
